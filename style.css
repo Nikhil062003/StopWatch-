@@ -1,0 +1,40 @@
+body{
+  background-color:black;
+  background-repeat:no-repeat;
+  background-size:cover;
+  background-image:url("https://media.istockphoto.com/id/831676174/photo/stopwatch.jpg?b=1&s=170667a&w=0&k=20&c=EpwfxUbFOKuiT_xpfF5V4SnpAOWMWBF9XtyGh2aCZek=");
+}
+#con{
+  color:white;
+  display:absolute;
+}
+
+p{
+   font-size: 15;
+}
+#all{
+  font-size:120px;
+  color:black;
+  
+
+  height:500px;
+  width:500px;
+ margin-top:500px;
+  margin-left:500px;
+ 
+}
+#lap{background-color:white;margin-left:500px;}
+
+#stop,#start{background-color:white;margin-left:100px;}
+#lap ,#stop,#start{
+  font-size:30px;
+  border-radius:15%;
+
+}
+#con{
+     height:500px;
+  width:500px;
+  margin-left:500px;
+  font-size:25;
+  color:black;
+}
